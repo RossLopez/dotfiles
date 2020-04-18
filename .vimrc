@@ -1,6 +1,6 @@
 
 syntax on               " enable syntax highlighting
-set cursorline          " highlight the current line
+" set cursorline          " highlight the current line
 " set background=dark   " darker color scheme
 " set ruler             " show line number in bar
 set nobackup            " don't create pointless backup files; Use VCS instead
@@ -30,7 +30,7 @@ set shiftwidth=2        " 2 spaces for indentation
 
 " bells
 set noerrorbells        " turn off audio bell
-set visualbell          " but leave on a visual bell
+" set visualbell          " but leave on a visual bell
 
 " search
 set hlsearch            " highlighted search results
