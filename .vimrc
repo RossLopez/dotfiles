@@ -35,6 +35,9 @@ set noerrorbells        " turn off audio bell
 " search
 set hlsearch            " highlighted search results
 set showmatch           " show matching bracket
+set ic                  " ignore case in search
+set is                  " show incremental search results
+
 
 " other
 set guioptions=aAace    " don't show scrollbar in MacVim
